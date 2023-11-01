@@ -73,13 +73,13 @@ Ubuntu 22.04
 
 **service 파일 enable 및 실행：
 
-    systemctl enable availd.service
+    sudo systemctl enable availd.service
 
-    systemctl start availd.service
+    sudo systemctl start availd.service
 
 **상태 확인
 
-    systemctl status availd.service
+    sudo systemctl status availd.service
 
 **혹은 journalctl 명령어로 확인 가능
 
