@@ -2,8 +2,6 @@ AVAIL 풀 노드 셋업
 
 공식링크 : https://docs.availproject.org/operate/node/binaries/
 
-https://github.com/DinhCongTac221/Install-Avail-Full-Node
-
 **사양**
 
 최소：4GB RAM，2코어CPU，20-40GB SSD
