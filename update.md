@@ -10,6 +10,8 @@
 `sudo systemctl stop avail.service`
 # 최신 버전 받아오기
 `git pull`
+***버전에 따라
+`git checkout v.1.8.0.0`
 # 실행
 `cargo run --locked --release -- --chain goldberg -d ./output`
 # 서비스 파일 수정
