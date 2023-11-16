@@ -86,3 +86,9 @@ Ubuntu 22.04
 **이후 노드 확인 
 https://telemetry.avail.tools/
 
+
+
+
+
+### kate체인에서 goldberg 체인으로 업데이트 방법
+https://github.com/phium/install-avail-full-node/blob/main/update.md    
