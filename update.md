@@ -4,7 +4,7 @@
 # avail 폴더로 이동
   `cd avail`
 ## kate 체인에서 업데이트시 데이터 폴더 삭제 이후 재 생성
-`rm -rm data`
+`rm -rf data`
 <br/>`mkdir -p data`
 # service file 스탑
 `sudo systemctl stop avail.service`
